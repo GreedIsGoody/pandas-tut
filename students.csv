@@ -1,0 +1,4 @@
+,Name,Score,Passed,Age,Group,City,Status,Grant,Age_Group,Summary
+0,Alice,88,True,20.0,A,Kyiv,Excellent,Scholarship Granted,Junior,Alice from Kyiv
+1,John,80,True,21.0,A,Lviv,Good,No Scholarship,Senior,John from Lviv
+2,Kate,80,False,22.0,B,Odesa,Good,No Scholarship,Senior,Kate from Odesa
